@@ -7,3 +7,4 @@ requests
 os
 path
 gspread
+notebook
